@@ -47,5 +47,5 @@ fitting different models (Regression, Decision tree regressor, Gradient boost)
 evaluation of models using R-squared, RMSE, RSE, MAE metrics.
 
 
-conclusion:
-An R-squared value of 0.86 was acheived using Gradient Boost Regressor with minimum number of leaf nodes.
+# conclusion:
+An R-squared value of 0.88 was acheived using Gradient Boost Regressor.
