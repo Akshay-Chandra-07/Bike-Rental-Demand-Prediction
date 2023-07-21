@@ -38,14 +38,15 @@ Data cleaning
 
 Performing EDA
 
-encoding of categorical columns
+Encoding of categorical columns
 
-feature scaling
+Feature scaling
 
-fitting different models (Regression, Decision tree regressor, Gradient boost)
+Fitting different models (Linear Regression, Decision Tree Regressor, Gradient Boost)
 
-evaluation of models using R-squared, RMSE, RSE, MAE metrics.
+Evaluation of models using R-squared, RMSE, RSE, MAE metrics.
 
 
-# conclusion:
+# Conclusion:
+
 An R-squared value of 0.88 was acheived using Gradient Boost Regressor.
